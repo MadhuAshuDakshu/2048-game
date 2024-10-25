@@ -104,6 +104,7 @@ STEP4: Create and run the container in the port number 80 using the created dock
 docker run -d -p 80:80 <image id>
 
 STEP5: Once the image is ran to container, you can now access the application in the locahost using the port number 80 http://localhost:80
+<img width="746" alt="localhost" src="https://github.com/user-attachments/assets/2d3e9bdd-a4c6-45d3-891b-015e3983503d">
 
 STEP6: Open AWS console and sign in with IAM user. Make sure that the IAM role has the EBS policy
 
